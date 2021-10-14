@@ -1,0 +1,21 @@
+.w100{
+    width: 100%;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.mt100{
+    margin-top: 100px;
+}
+
+.ml20{
+    margin-left: 20px !important;
+}
+
+.addButton{
+    position: fixed;
+    bottom: 5vw;
+    right: 5vw;
+}
